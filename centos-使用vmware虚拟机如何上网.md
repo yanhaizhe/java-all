@@ -18,5 +18,23 @@
 
 5、 开启宿主机（windows7）中的VMware DHCP Service 和VMware NAT Service服务。写个脚本省事儿
 
+![](/assets/QQ截图20161104223024.png)
+
+6、 再写个Linux脚本，如图 
+
+7、 运行后如图，
+
+这个脚本作用为：
+
+关闭NetworkManager（service NetworkManager stop），重启network（service network restart），再启动
+
+NetworkManager（service NetworkManager start）。【因为NetworkManager会对network重启造成影响，所以先关闭它，最后
+
+这服务不启动也有影响，所以最后再启动它】
+
+
+
+8、 最后测试网络连通情况 
+
 
 
