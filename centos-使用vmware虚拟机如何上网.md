@@ -20,7 +20,13 @@
 
 ![](/assets/QQ截图20161104223024.png)
 
-6、 再写个Linux脚本，如图 
+6、 再写个Linux脚本，如图
+
+
+
+![](/assets/QQ截图20161104223055.png)
+
+
 
 7、 运行后如图，
 
@@ -34,7 +40,13 @@ NetworkManager（service NetworkManager start）。【因为NetworkManager会对
 
 
 
-8、 最后测试网络连通情况 
+![](/assets/QQ截图20161104223121.png)
 
 
+
+8、 最后测试网络连通情况
+
+
+
+![](/assets/QQ截图20161104223143.png)
 
