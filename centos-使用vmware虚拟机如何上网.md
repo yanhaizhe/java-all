@@ -16,7 +16,7 @@
 
 ![](/assets/QQ截图20161104222919.png)
 
-5、 开启宿主机（windows7）中的VMware DHCP Service 和VMware NAT Service服务。写个脚本省事儿 
+5、 开启宿主机（windows7）中的VMware DHCP Service 和VMware NAT Service服务。写个脚本省事儿
 
 
 
